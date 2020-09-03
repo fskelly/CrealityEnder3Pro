@@ -6,7 +6,7 @@
 ### File  
 pins.h
 
-PS-ON -> External MOSFET
+PS-ON -> External MOSFET  
 pins.h: PC13 -> Replaces PC9
 |Original  |New  |
 |---------|---------|
