@@ -1,9 +1,10 @@
 # CrealityEnder3Pro
 
-## Firmware(s)
+## About
+This is meant to a "journal"of my progress with my 3D Printer, if you learn or use something, great  :smile:
 
-|Firmware  |Location  |Purpose  |Version  |
-|---------|---------|---------|---------|
-|External Mosfet     |mosfet-altpin\firmware.bin         |Shorted out onboard mosfet - using external mosfet         |0.1         | 
-|Row2     |         |         |
+### Progress
+As I make progress, which will be slow and steady, it will be linked [here](progress\README.md)
 
+### Firmware
+As I build and test firmware, it will be published as well.
