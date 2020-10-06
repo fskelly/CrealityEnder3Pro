@@ -7,7 +7,7 @@ Some rewiring is needed, my first attempt did not work out so well. Happily the 
 
 **Personal Rant :** Really wish that everyone used the same connectors. Silly Ender 3 uses JST PH on the motor connections and JST XH everywhere else. I only bought replacement JST XH. Thank goodness I own a soldering iron. :)
 
-### 18-September - 2020
+### 18-September-2020
 1. Printed a Electronics Box for my hardware - [U1JO - Control Box v2](https://www.thingiverse.com/thing:4194627)
 2. Schematics
    1. Relay
