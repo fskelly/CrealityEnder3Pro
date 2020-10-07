@@ -32,3 +32,7 @@ Forward = -7 (-)
  *     O-- FRONT --+
  *
  ```
+
+Z-Probe offset = -1.4
+M211 S0 to enable negative offset
+M211 S1 to disable negative offset
