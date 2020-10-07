@@ -1,4 +1,0 @@
-BTT SKR Mini E3 V2
-pins
-PS-ON -> External MOSFET
-pins.h: PC13 -> Replaces PC9
