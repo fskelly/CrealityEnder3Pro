@@ -12,7 +12,7 @@ I used the Z-Homing approach and the wiring "diagram" I used, can be found [here
 
 Based on the [SKR Mini E3 V2 Pinout](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/blob/master/hardware/BTT%20SKR%20MINI%20E3%20V2.0/Hardware/BTT%20SKR%20MINI%20E3%20V2.0-PIN.pdf) for Z-Homing I would need to split my connector from the "normal 5 pin" to "3-pin" (SERVO) and "2-pin" (STOP) connectors.
 
-[Where to Coonect on baord](pics/IMG_7236.jpg)  
+[Where to Connect on baord](pics/IMG_7236.jpg)  
 <img src="pics/IMG_7236.jpg" alt="EmptyBoard" title="EmptyBoard" width="350" height="350" />  
 [Split Probe Cable](pics/IMG_7237.jpg)  
 <img src="pics/IMG_7237.jpg" alt="SplitProbe" title="SplitProbe" width="350" height="350" />  
