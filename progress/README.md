@@ -22,7 +22,7 @@ Some rewiring is needed, my first attempt did not work out so well. Happily the 
    4. SKR E3 Mini V2
    5. Meanwell PSU
 
-Bltouch Measurements  
+BLTouch Measurements  
 Left = -42 (-)
 Forward = -7 (-)
 
