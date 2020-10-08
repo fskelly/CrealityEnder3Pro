@@ -34,6 +34,6 @@ Some pictures are below
 
 
 ## Resources
-[![youtubeLink](http://img.youtube.com/vi/1NhAo3xR9HY/0.jpg)](http://www.youtube.com/watch?v=1NhAo3xR9HY "BLTouch SKR E3 Mini V2")  
+[BLTouch SKR E3 Mini V2](http://www.youtube.com/watch?v=1NhAo3xR9HY)  
 [Wiring Diagram](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/blob/master/hardware/BTT%20SKR%20MINI%20E3%20V2.0/Hardware/bltouch-2.0-2.jpg)   
 [SKR Mini E3 V2 Pinout](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/blob/master/hardware/BTT%20SKR%20MINI%20E3%20V2.0/Hardware/BTT%20SKR%20MINI%20E3%20V2.0-PIN.pdf)
