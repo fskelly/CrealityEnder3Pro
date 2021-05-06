@@ -4,7 +4,7 @@
 
 ### 03-May-2021  
 
-Re-wire again with different connectors, working on making a more robust wiring solution. [here](CrealityEnder3Pro\progress\rewire.md)
+Re-wire again with different connectors, working on making a more robust wiring solution. [here](https://github.com/fskelly/CrealityEnder3Pro/blob/master/progress/rewire.md)
 
 ### 07-October-2020  
 
