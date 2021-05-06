@@ -4,7 +4,7 @@
 
 ### May 2021
 
-[here](/may-2021.md)
+[here](/progress/may-2021.md)
 
 ### October 2020
 
