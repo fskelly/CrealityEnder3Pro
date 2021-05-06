@@ -1,4 +1,4 @@
-# CrealityEnder3Pro
+# Creality Ender 3 Pro
 
 ## Progress
 

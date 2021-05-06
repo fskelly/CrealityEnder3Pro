@@ -2,6 +2,7 @@
 
 Date: 07-October-2020
 
+- [First BLTouch Print](#first-bltouch-print)
   - [Wiring](#wiring)
   - [Results](#results)
   - [Resources](#resources)
@@ -18,6 +19,7 @@ Based on the [SKR Mini E3 V2 Pinout](https://github.com/bigtreetech/BIGTREETECH-
 <img src="pics/IMG_7237.jpg" alt="SplitProbe" title="SplitProbe" width="350" height="350" />  
 [Final Connection on Board](pics/IMG_7238.jpg)  
 <img src="pics/IMG_7238.jpg" alt="FinalConnections" title="FinalConnections" width="350" height="350" />
+
 ## Results  
 
 See below my wiring connection for a genuine BLTouch, mine is connected to a BigTreeTech SKR E3 Mini V2
@@ -25,15 +27,15 @@ See below my wiring connection for a genuine BLTouch, mine is connected to a Big
 Some pictures are below  
 [pic1](pics/IMG_7229.jpg)  
 <img src="pics/IMG_7229.jpg" alt="BLTouchPrint1" title="BLTouchPrint1" width="250" height="250" />  
-[pic2](pics/IMG_7230.jpg)   
+[pic2](pics/IMG_7230.jpg)
 <img src="pics/IMG_7230.jpg" alt="BLTouchPrint2" title="BLTouchPrint2" width="250" height="250" />  
 [pic3](pics/IMG_7231.jpg)  
 <img src="pics/IMG_7231.jpg" alt="BLTouchPrint3" title="BLTouchPrint3" width="250" height="250" />  
 [pic4](pics/IMG_7232.jpg)  
 <img src="pics/IMG_7232.jpg" alt="BLTouchPrint4" title="BLTouchPrint4" width="250" height="250" />  
 
-
 ## Resources
+
 [BLTouch SKR E3 Mini V2](http://www.youtube.com/watch?v=1NhAo3xR9HY)  
-[Wiring Diagram](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/blob/master/hardware/BTT%20SKR%20MINI%20E3%20V2.0/Hardware/bltouch-2.0-2.jpg)   
+[Wiring Diagram](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/blob/master/hardware/BTT%20SKR%20MINI%20E3%20V2.0/Hardware/bltouch-2.0-2.jpg)
 [SKR Mini E3 V2 Pinout](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/blob/master/hardware/BTT%20SKR%20MINI%20E3%20V2.0/Hardware/BTT%20SKR%20MINI%20E3%20V2.0-PIN.pdf)
